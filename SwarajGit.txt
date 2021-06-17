@@ -67,3 +67,17 @@ git merge feature1
 
 14) Create and switch to branch-
 git checkout -b feature2 [it will create a branch and move to that branch]
+
+15) Host on github-
+git remote add origin https://github.com/first-phoenix/gitpractice.git
+
+git remote [it will return origin]
+
+git remote -v [it will give locations where the codes will be pushed]
+
+16) push(first way)-
+git push -u origin master
+
+17) push (second way)-
+git remote set-url origin git@github.com:first-phoenix/gitpractice.git 
+[set new url which is the ssh key]
