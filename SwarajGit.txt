@@ -1,0 +1,20 @@
+0) check status-
+git status
+
+1) Initialize one repo-
+git init
+
+2) Add files-
+git add xyz.html [too add a single file]
+or
+git add -A [too add all the files]
+
+3) Commit files-
+git commit -m "This is the commit message"
+or
+git commit [opens vim editor, then i for inserting, then press escape and ":wq" and enter]
+
+4) change back to the previously saved commit if modified-
+git checkout abc.html
+or
+git checkout -f [make files as last commit]
