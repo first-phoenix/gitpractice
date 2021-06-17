@@ -18,3 +18,14 @@ git commit [opens vim editor, then i for inserting, then press escape and ":wq" 
 git checkout abc.html
 or
 git checkout -f [make files as last commit]
+
+5) Check Logs-
+git log [all commits]
+or
+git log -p -1 [last one commit and q to quit]
+
+6) Difference between staging and working tree-
+git diff
+or
+Difference between staging and last commit-
+git diff --staged
