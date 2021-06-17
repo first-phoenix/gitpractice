@@ -33,4 +33,7 @@ git diff --staged
 7)Commit skipping staging area(add)-
 git commit -a -m "comment here"
 
-
+8) Remove file if required-
+git rm --cached abc.html[remove from only staging area, don't delete]
+or
+git rm abc.html
