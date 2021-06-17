@@ -42,3 +42,15 @@ git rm abc.html
 git status -s
 
 10) Git Inore-
+create a .gitignore file
+add the file name eg. [abc.logs] inside the gitignore file
+or
+add the file name with slash eg.[/abc.logs] inside the gitignore file
+if we want to ignore only file with that name inside the same folder 
+where the gitignore file is present
+or
+add [*.log] to ignore all files with that extension
+or
+add [foldername/] to ignore a directory
+
+11)
