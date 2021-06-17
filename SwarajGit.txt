@@ -29,3 +29,8 @@ git diff
 or
 Difference between staging and last commit-
 git diff --staged
+
+7)Commit skipping staging area(add)-
+git commit -a -m "comment here"
+
+
