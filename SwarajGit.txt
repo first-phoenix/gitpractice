@@ -83,3 +83,12 @@ git remote set-url origin git@github.com:first-phoenix/gitpractice.git
 [set new url which is the ssh key]
 
 git push -u origin master
+
+git push -u origin feature1 [to push each branch]
+
+18) Clone repo-
+git clone paste_url_here folder_name
+[copy files into the folder]
+or
+git clone paste_url_here 
+[copy files there directly]
