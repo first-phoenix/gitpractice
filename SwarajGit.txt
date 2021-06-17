@@ -81,3 +81,5 @@ git push -u origin master
 17) push (second way)-
 git remote set-url origin git@github.com:first-phoenix/gitpractice.git 
 [set new url which is the ssh key]
+
+git push -u origin master
