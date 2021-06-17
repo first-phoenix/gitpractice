@@ -53,4 +53,10 @@ add [*.log] to ignore all files with that extension
 or
 add [foldername/] to ignore a directory
 
-11)
+11) Add branch-
+git branch [gives branch status, where you are present]
+or
+git branch feature1 [create a branch named feature1]
+
+12) Switch branch-
+git checkout feature1 [switch to branch feature1]
