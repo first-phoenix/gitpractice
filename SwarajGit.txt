@@ -37,3 +37,8 @@ git commit -a -m "comment here"
 git rm --cached abc.html[remove from only staging area, don't delete]
 or
 git rm abc.html
+
+9) Summarized status-
+git status -s
+
+10) Git Inore-
