@@ -60,3 +60,10 @@ git branch feature1 [create a branch named feature1]
 
 12) Switch branch-
 git checkout feature1 [switch to branch feature1]
+
+13) Merge branch-
+git checkout master [switch to master first]
+git merge feature1
+
+14) Create and switch to branch-
+git checkout -b feature2 [it will create a branch and move to that branch]
